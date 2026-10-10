@@ -92,7 +92,7 @@ For training, GPU memory requirements are typically higher. Using techniques lik
 ## Tutorials and Guides
 
 - [Fine-tuning with LoRA using Hugging Face Transformers](https://huggingface.co/blog/lora)
-- [Quantization for Transformers with ONNX Runtime](https://huggingface.co/blog/onnx-quantize-transformers)
+- [The Quiet Revolution in Small AI Models](https://calder-brief.pages.dev/quiet-revolution-small-ai-models)
 - [Deploying Hugging Face Models on CPU with ONNX Runtime](https://huggingface.co/blog/onnx-runtime-inference)
 - [Optimizing Inference with TensorFlow Lite](https://www.tensorflow.org/lite/performance/best_practices)
 
